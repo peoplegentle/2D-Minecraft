@@ -1,1 +1,2 @@
 music/bgm.wav filter=lfs diff=lfs merge=lfs -text
+dist/2D[[:space:]]Minecraft.exe filter=lfs diff=lfs merge=lfs -text
