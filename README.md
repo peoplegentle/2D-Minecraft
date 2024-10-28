@@ -6,7 +6,7 @@
 ## 기능 소개
 
 ### 메인 화면
-<img width="50%" src="https://github.com/user-attachments/assets/a4f3f515-edd6-443d-8648-380695a1922a"/>
+<img width="50%" src="https://github.com/user-attachments/assets/ac1b72df-1b21-45ff-af79-a49d84d91f75"/>
 
 - **서바이벌 모드** 및 **크리에이티브 모드**를 선택할 수 있는 옵션이 제공됩니다.
 - 현재는 **크리에이티브 모드**만 활성화되어 있습니다.
@@ -14,7 +14,7 @@
 </br>
 
 ### 크리에이티브 모드
-<img width="50%" src="https://github.com/user-attachments/assets/1b8deb36-c540-43eb-9645-3deb1bf698af"/>
+<img width="50%" src="https://github.com/user-attachments/assets/3bf64e73-056e-48ed-8959-d91b9c1d57c1"/>
 
 - **블록 파괴**: 더블 클릭을 통해 블록을 파괴할 수 있습니다.
 - **블록 설치**: 우클릭으로 블록을 설치할 수 있습니다. 블록은 1번에서 9번까지 지정된 블록만 설치할 수 있습니다.
